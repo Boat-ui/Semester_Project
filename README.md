@@ -2,7 +2,7 @@
 C++ PROJECT ON BANKING SYSTEM
                                        FIDELITY BANKING SYSTEM
 
-Welcome to the GFIDELITY Banking System README!
+Welcome to the FIDELITY Banking System README!
 
 This repository contains a C++ program that simulates a simple banking system. Users can perform various banking operations such as creating an account, transferring money, depositing money, withdrawing money, checking balance, viewing transaction history, and accessing account information. The program utilizes file handling to store and retrieve user and transaction data.
 
